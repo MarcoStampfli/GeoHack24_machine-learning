@@ -14,7 +14,7 @@ def generate_text(field1, field2, field3, img) -> str:
     response = multimodal_model.generate_content(
         [
             image,
-            f"""Extract{field},{field2},{field3} from the image in the json schema:""",
+            f"""Extract{field1},{field2},{field3} from the image in the json schema:""",
         ]
     )
     return response.text
@@ -35,7 +35,7 @@ with gr.Blocks(title="Title") as demo:
             output = gr.Textbox(label="Output")
         img = gr.Image(type="filepath")
     submit = gr.Button("Extract")
-    submit.click(fn=upload_image, inputs=[field1, field2, field3, img], outputs=output)
+    submit.click(fn=generate_text, inputs=[field1, field2, field3, img], outputs=output)
 
 demo.launch()
 
