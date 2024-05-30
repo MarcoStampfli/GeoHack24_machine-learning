@@ -1,361 +1,337 @@
-{'image_path': 'sample_0.jpg', 'text': '(24-'}
-{'image_path': 'sample_1.jpg', 'text': '78 40  '}
-{'image_path': 'sample_2.jpg', 'text': 'Ccr 1c7'}
-{'image_path': 'sample_3.jpg', 'text': '(402^ '}
-{'image_path': 'sample_4.jpg', 'text': '"Lc €+a OOunthto-ed'}
-{'image_path': 'sample_5.jpg', 'text': 'Z , S +ur enlk ='}
-{'image_path': 'sample_6.jpg', 'text': 'ZezLetal ZZr'}
-{'image_path': 'sample_7.jpg', 'text': '{z, Ooor'}
-{'image_path': 'sample_8.jpg', 'text': '4 ('}
-{'image_path': 'sample_9.jpg', 'text': 'fe  /enz & 7'}
-{'image_path': 'sample_10.jpg', 'text': 'Orcer <'}
-{'image_path': 'sample_11.jpg', 'text': 'Oleccanc a'}
-{'image_path': 'sample_12.jpg', 'text': 'KU'}
-{'image_path': 'sample_13.jpg', 'text': '& Olw'}
-{'image_path': 'sample_14.jpg', 'text': 'ni'}
-{'image_path': 'sample_15.jpg', 'text': 'Iuchkokets'}
-{'image_path': 'sample_16.jpg', 'text': "'21<€"}
-{'image_path': 'sample_17.jpg', 'text': '(escce'}
-{'image_path': 'sample_18.jpg', 'text': 'L4'}
-{'image_path': 'sample_19.jpg', 'text': '"elzoe'}
-{'image_path': 'sample_20.jpg', 'text': '0111e 6'}
-{'image_path': 'sample_21.jpg', 'text': 'Crzeencet/'}
-{'image_path': 'sample_22.jpg', 'text': '6212ln1'}
-{'image_path': 'sample_23.jpg', 'text': '(aras 4'}
-{'image_path': 'sample_24.jpg', 'text': 'Jucc'}
-{'image_path': 'sample_25.jpg', 'text': 'Facz  72'}
-{'image_path': 'sample_26.jpg', 'text': 'Lze'}
-{'image_path': 'sample_27.jpg', 'text': '0"c{LeCiCe~2'}
-{'image_path': 'sample_28.jpg', 'text': 'ctloc'}
-{'image_path': 'sample_29.jpg', 'text': '2Es_'}
-{'image_path': 'sample_30.jpg', 'text': '7i 74cH" le fZzzco'}
-{'image_path': 'sample_31.jpg', 'text': '24'}
-{'image_path': 'sample_32.jpg', 'text': '22L'}
-{'image_path': 'sample_33.jpg', 'text': '4'}
-{'image_path': 'sample_34.jpg', 'text': '40{n72'}
-{'image_path': 'sample_35.jpg', 'text': 'hey i'}
-{'image_path': 'sample_36.jpg', 'text': 'e'}
-{'image_path': 'sample_37.jpg', 'text': 'Cuoc ( [U~LMllLest 92 [4t7ee4z'}
-{'image_path': 'sample_38.jpg', 'text': '7k'}
-{'image_path': 'sample_39.jpg', 'text': '4lL'}
-{'image_path': 'sample_40.jpg', 'text': 'E'}
-{'image_path': 'sample_41.jpg', 'text': '& Uo'}
-{'image_path': 'sample_42.jpg', 'text': 'fuch senices'}
-{'image_path': 'sample_43.jpg', 'text': '29dz'}
-{'image_path': 'sample_44.jpg', 'text': 'T€e'}
-{'image_path': 'sample_45.jpg', 'text': 'Li*c'}
-{'image_path': 'sample_46.jpg', 'text': 'ShiuelareU'}
-{'image_path': 'sample_47.jpg', 'text': "Lu'"}
-{'image_path': 'sample_48.jpg', 'text': '~eE2'}
-{'image_path': 'sample_49.jpg', 'text': 'D&oc'}
-{'image_path': 'sample_50.jpg', 'text': 'SL1xet mex'}
-{'image_path': 'sample_51.jpg', 'text': 'RLt'}
-{'image_path': 'sample_52.jpg', 'text': '{Akce4}'}
-{'image_path': 'sample_53.jpg', 'text': 'LL:'}
-{'image_path': 'sample_54.jpg', 'text': 'Irhoi 4 788/1/1"4'}
-{'image_path': 'sample_55.jpg', 'text': 'Acce 22c'}
-{'image_path': 'sample_56.jpg', 'text': 'Tbet'}
-{'image_path': 'sample_57.jpg', 'text': 'Lcttez'}
-{'image_path': 'sample_58.jpg', 'text': '&beyas-Tzaaz-ek'}
-{'image_path': 'sample_59.jpg', 'text': 'So2era Zaeask 9+1'}
-{'image_path': 'sample_60.jpg', 'text': '7ra/+2/4 4k (9aapE'}
-{'image_path': 'sample_61.jpg', 'text': 'DLLL OL'}
-{'image_path': 'sample_62.jpg', 'text': 'En: fekdieca Zcac 28 2 ,'}
-{'image_path': 'sample_63.jpg', 'text': '14ul'}
-{'image_path': 'sample_64.jpg', 'text': 'Zt ('}
-{'image_path': 'sample_65.jpg', 'text': '6+1 47'}
-{'image_path': 'sample_66.jpg', 'text': '~Seudle'}
-{'image_path': 'sample_67.jpg', 'text': 'Zepe'}
-{'image_path': 'sample_68.jpg', 'text': 'Zafzasfa-Zis Aio'}
-{'image_path': 'sample_69.jpg', 'text': '"7 6 ~ikc'}
-{'image_path': 'sample_70.jpg', 'text': '8u as fi Leelezee'}
-{'image_path': 'sample_71.jpg', 'text': '012 (5'}
-{'image_path': 'sample_72.jpg', 'text': '7 <Cacfeduen/ ,ccd'}
-{'image_path': 'sample_73.jpg', 'text': '210'}
-{'image_path': 'sample_74.jpg', 'text': '284 € (0 /+'}
-{'image_path': 'sample_75.jpg', 'text': '~indnisz'}
-{'image_path': 'sample_76.jpg', 'text': '['}
-{'image_path': 'sample_77.jpg', 'text': '7 (Dura'}
-{'image_path': 'sample_78.jpg', 'text': '444-04'}
-{'image_path': 'sample_79.jpg', 'text': 'Dl&e('}
-{'image_path': 'sample_80.jpg', 'text': "'alnly"}
-{'image_path': 'sample_81.jpg', 'text': '3'}
-{'image_path': 'sample_82.jpg', 'text': 'Raal Z.9ha Ey 4 /'}
-{'image_path': 'sample_83.jpg', 'text': '24221'}
-{'image_path': 'sample_84.jpg', 'text': '~tusns [eeeus'}
-{'image_path': 'sample_85.jpg', 'text': 'L <'}
-{'image_path': 'sample_86.jpg', 'text': '7'}
-{'image_path': 'sample_87.jpg', 'text': '[8n78E121+8 /12'}
-{'image_path': 'sample_88.jpg', 'text': 'Aeruees Lc/1e > @ss ~eie Zly'}
-{'image_path': 'sample_89.jpg', 'text': 'Drcdetc'}
-{'image_path': 'sample_90.jpg', 'text': '~rac'}
-{'image_path': 'sample_91.jpg', 'text': '0 p'}
-{'image_path': 'sample_92.jpg', 'text': '2/ Co'}
-{'image_path': 'sample_93.jpg', 'text': 'Zcer Cottl /u6s /'}
-{'image_path': 'sample_94.jpg', 'text': 'acte1 [aodaw fLiLoco'}
-{'image_path': 'sample_95.jpg', 'text': '47 FeELws'}
-{'image_path': 'sample_96.jpg', 'text': '2112€'}
-{'image_path': 'sample_97.jpg', 'text': '7'}
-{'image_path': 'sample_98.jpg', 'text': 'Kcf&'}
-{'image_path': 'sample_99.jpg', 'text': '#feeztZcs iR~'}
-{'image_path': 'sample_100.jpg', 'text': '(m'}
-{'image_path': 'sample_101.jpg', 'text': 'Zan Lzcerediy 42c BoLeiaae'}
-{'image_path': 'sample_102.jpg', 'text': 'Cc'}
-{'image_path': 'sample_103.jpg', 'text': '7teULCL'}
-{'image_path': 'sample_104.jpg', 'text': 'louloc'}
-{'image_path': 'sample_105.jpg', 'text': 'Aatle'}
-{'image_path': 'sample_106.jpg', 'text': '~flo/ez'}
-{'image_path': 'sample_107.jpg', 'text': '02822722 €'}
-{'image_path': 'sample_108.jpg', 'text': 'Zazcszaoo %d471'}
-{'image_path': 'sample_109.jpg', 'text': '188304'}
-{'image_path': 'sample_110.jpg', 'text': '/-14 _'}
-{'image_path': 'sample_111.jpg', 'text': 'O2t 0 €'}
-{'image_path': 'sample_112.jpg', 'text': "{2'/a (lcaez~"}
-{'image_path': 'sample_113.jpg', 'text': "2 '"}
-{'image_path': 'sample_114.jpg', 'text': '22245 ='}
-{'image_path': 'sample_115.jpg', 'text': '2'}
-{'image_path': 'sample_116.jpg', 'text': '0'}
-{'image_path': 'sample_117.jpg', 'text': 'Ob hcl'}
-{'image_path': 'sample_118.jpg', 'text': '0-66 11 1 #aeeces'}
-{'image_path': 'sample_119.jpg', 'text': 'Ele 0lceob'}
-{'image_path': 'sample_120.jpg', 'text': '0cuss'}
-{'image_path': 'sample_121.jpg', 'text': '0e'}
-{'image_path': 'sample_122.jpg', 'text': '776'}
-{'image_path': 'sample_123.jpg', 'text': '7zd:'}
-{'image_path': 'sample_124.jpg', 'text': 'L2)'}
-{'image_path': 'sample_125.jpg', 'text': 'UDoam-c'}
-{'image_path': 'sample_126.jpg', 'text': '882`'}
-{'image_path': 'sample_127.jpg', 'text': 'Ha Leceuc /88304'}
-{'image_path': 'sample_128.jpg', 'text': 'Z1,aDdej Merena Oene'}
-{'image_path': 'sample_129.jpg', 'text': 'Ksceeoz'}
-{'image_path': 'sample_130.jpg', 'text': '&"'}
-{'image_path': 'sample_131.jpg', 'text': '222'}
-{'image_path': 'sample_132.jpg', 'text': "'"}
-{'image_path': 'sample_133.jpg', 'text': 'LlL'}
-{'image_path': 'sample_134.jpg', 'text': 'AAec2,'}
-{'image_path': 'sample_135.jpg', 'text': '627/o 6,c65'}
-{'image_path': 'sample_136.jpg', 'text': 'Lc'}
-{'image_path': 'sample_137.jpg', 'text': 'flcw-'}
-{'image_path': 'sample_138.jpg', 'text': 'Jilua ZAeaky'}
-{'image_path': 'sample_139.jpg', 'text': 'fra/'}
-{'image_path': 'sample_140.jpg', 'text': '02 '}
-{'image_path': 'sample_141.jpg', 'text': '021*021'}
-{'image_path': 'sample_142.jpg', 'text': 'Fon'}
-{'image_path': 'sample_143.jpg', 'text': 'hlzeeezo'}
-{'image_path': 'sample_144.jpg', 'text': '4 /i~ eneeeke ='}
-{'image_path': 'sample_145.jpg', 'text': 'Fxt CcwTenZs ltEacZ uiccEoluef Z'}
-{'image_path': 'sample_146.jpg', 'text': '0Ivzld € etul 7 &'}
-{'image_path': 'sample_147.jpg', 'text': 'MaeneZtiAsiey'}
-{'image_path': 'sample_148.jpg', 'text': 'ZuUIarics'}
-{'image_path': 'sample_149.jpg', 'text': 'LLl'}
-{'image_path': 'sample_150.jpg', 'text': '4zz'}
-{'image_path': 'sample_151.jpg', 'text': 'C _ e'}
-{'image_path': 'sample_152.jpg', 'text': 'Eucer,20+2 7s'}
-{'image_path': 'sample_153.jpg', 'text': '7o7221<'}
-{'image_path': 'sample_154.jpg', 'text': 'Zo &2'}
-{'image_path': 'sample_155.jpg', 'text': '7o7xEc'}
-{'image_path': 'sample_156.jpg', 'text': 'e6'}
-{'image_path': 'sample_157.jpg', 'text': 'fe'}
-{'image_path': 'sample_158.jpg', 'text': 'Cc'}
-{'image_path': 'sample_159.jpg', 'text': '"eeiee&'}
-{'image_path': 'sample_160.jpg', 'text': 'Lll /722'}
-{'image_path': 'sample_161.jpg', 'text': 'Zeece'}
-{'image_path': 'sample_162.jpg', 'text': '4'}
-{'image_path': 'sample_163.jpg', 'text': '#eozeed'}
-{'image_path': 'sample_164.jpg', 'text': '~2cc;'}
-{'image_path': 'sample_165.jpg', 'text': '~ff'}
-{'image_path': 'sample_166.jpg', 'text': '7 (ccelle'}
-{'image_path': 'sample_167.jpg', 'text': '('}
-{'image_path': 'sample_168.jpg', 'text': '881 %zeus'}
-{'image_path': 'sample_169.jpg', 'text': 'Zeccecc'}
-{'image_path': 'sample_170.jpg', 'text': 'SlesTezsn'}
-{'image_path': 'sample_171.jpg', 'text': 'Ctzaol'}
-{'image_path': 'sample_172.jpg', 'text': '~cuslnolen 626z'}
-{'image_path': 'sample_173.jpg', 'text': '22277O1lKesd em(rf-aeiics'}
-{'image_path': 'sample_174.jpg', 'text': '(o4'}
-{'image_path': 'sample_175.jpg', 'text': 'C7'}
-{'image_path': 'sample_176.jpg', 'text': 'Licciusees IE4EG Mlaaecec'}
-{'image_path': 'sample_177.jpg', 'text': 'Lt &,'}
-{'image_path': 'sample_178.jpg', 'text': 'LLeceu,'}
-{'image_path': 'sample_179.jpg', 'text': 'Za / h'}
-{'image_path': 'sample_180.jpg', 'text': 'Zi 7~'}
-{'image_path': 'sample_181.jpg', 'text': '2o2o'}
-{'image_path': 'sample_182.jpg', 'text': '~ciledi8 kculdsT'}
-{'image_path': 'sample_183.jpg', 'text': 'Zc ~f1 [24.22'}
-{'image_path': 'sample_184.jpg', 'text': '2'}
-{'image_path': 'sample_185.jpg', 'text': '/e42'}
-{'image_path': 'sample_186.jpg', 'text': '74'}
-{'image_path': 'sample_187.jpg', 'text': '7enuc'}
-{'image_path': 'sample_188.jpg', 'text': 'CLLacc'}
-{'image_path': 'sample_189.jpg', 'text': 'Yacc/4 UBarmaAxA &ox'}
-{'image_path': 'sample_190.jpg', 'text': 'DLL&'}
-{'image_path': 'sample_191.jpg', 'text': 'Ceha%ece'}
-{'image_path': 'sample_192.jpg', 'text': 'Lf'}
-{'image_path': 'sample_193.jpg', 'text': 'E) &26 0/ &62 7'}
-{'image_path': 'sample_194.jpg', 'text': '648_Ozeellan k Eewmalieoc ,'}
-{'image_path': 'sample_195.jpg', 'text': 'flec'}
-{'image_path': 'sample_196.jpg', 'text': 'Iua22'}
-{'image_path': 'sample_197.jpg', 'text': '7S'}
-{'image_path': 'sample_198.jpg', 'text': '02-[820'}
-{'image_path': 'sample_199.jpg', 'text': 'Liecce'}
-{'image_path': 'sample_200.jpg', 'text': 'E2J'}
-{'image_path': 'sample_201.jpg', 'text': '4-4ozL'}
-{'image_path': 'sample_202.jpg', 'text': '& @uec'}
-{'image_path': 'sample_203.jpg', 'text': '{hJazleresed7i7ii'}
-{'image_path': 'sample_204.jpg', 'text': '224@'}
-{'image_path': 'sample_205.jpg', 'text': '040d <enFe 3a/ -& $'}
-{'image_path': 'sample_206.jpg', 'text': '252 764'}
-{'image_path': 'sample_207.jpg', 'text': 'USam'}
-{'image_path': 'sample_208.jpg', 'text': '(24rues,9487'}
-{'image_path': 'sample_209.jpg', 'text': '6l144,'}
-{'image_path': 'sample_210.jpg', 'text': '%t811'}
-{'image_path': 'sample_211.jpg', 'text': 'LLLoLncolca €,'}
-{'image_path': 'sample_212.jpg', 'text': '7oelef /Z'}
-{'image_path': 'sample_213.jpg', 'text': '2 U8e_ (A`Meic &,4922,'}
-{'image_path': 'sample_214.jpg', 'text': '614/ &4'}
-{'image_path': 'sample_215.jpg', 'text': 'Dlececeec'}
-{'image_path': 'sample_216.jpg', 'text': '22'}
-{'image_path': 'sample_217.jpg', 'text': 'LL'}
-{'image_path': 'sample_218.jpg', 'text': '7'}
-{'image_path': 'sample_219.jpg', 'text': '&€cz'}
-{'image_path': 'sample_220.jpg', 'text': 'rw & &s72'}
-{'image_path': 'sample_221.jpg', 'text': ',E/TE &&dtoreeec '}
-{'image_path': 'sample_222.jpg', 'text': 'Inctu no'}
-{'image_path': 'sample_223.jpg', 'text': '2ae/ 2/ <'}
-{'image_path': 'sample_224.jpg', 'text': '7'}
-{'image_path': 'sample_225.jpg', 'text': 'Oc{'}
-{'image_path': 'sample_226.jpg', 'text': 'Q'}
-{'image_path': 'sample_227.jpg', 'text': 'Aae % 4,'}
-{'image_path': 'sample_228.jpg', 'text': '~aL'}
-{'image_path': 'sample_229.jpg', 'text': 'C2'}
-{'image_path': 'sample_230.jpg', 'text': 'Zz'}
-{'image_path': 'sample_231.jpg', 'text': '2648 Feus(ircs & (erzasf'}
-{'image_path': 'sample_232.jpg', 'text': '222260664'}
-{'image_path': 'sample_233.jpg', 'text': '(( &-'}
-{'image_path': 'sample_234.jpg', 'text': '27 61 8 sn4'}
-{'image_path': 'sample_235.jpg', 'text': '~) (a@y'}
-{'image_path': 'sample_236.jpg', 'text': 'Z'}
-{'image_path': 'sample_237.jpg', 'text': '0/&'}
-{'image_path': 'sample_238.jpg', 'text': '21872'}
-{'image_path': 'sample_239.jpg', 'text': 'Act 2 jer-'}
-{'image_path': 'sample_240.jpg', 'text': '4 $'}
-{'image_path': 'sample_241.jpg', 'text': 'ZoY Zs faA e6'}
-{'image_path': 'sample_242.jpg', 'text': 'hc/ a7ach'}
-{'image_path': 'sample_243.jpg', 'text': 'Lf'}
-{'image_path': 'sample_244.jpg', 'text': '7c'}
-{'image_path': 'sample_245.jpg', 'text': '~eT'}
-{'image_path': 'sample_246.jpg', 'text': 'laz &iRaniz'}
-{'image_path': 'sample_247.jpg', 'text': '412 [,'}
-{'image_path': 'sample_248.jpg', 'text': 'Ezaace'}
-{'image_path': 'sample_249.jpg', 'text': '20aleazz'}
-{'image_path': 'sample_250.jpg', 'text': 'L'}
-{'image_path': 'sample_251.jpg', 'text': "7&1 Lutwuz'"}
-{'image_path': 'sample_252.jpg', 'text': '"2'}
-{'image_path': 'sample_253.jpg', 'text': "'22"}
-{'image_path': 'sample_254.jpg', 'text': '8044n/'}
-{'image_path': 'sample_255.jpg', 'text': 'Ol'}
-{'image_path': 'sample_256.jpg', 'text': '2 QucL22'}
-{'image_path': 'sample_257.jpg', 'text': '"lcALclu.'}
-{'image_path': 'sample_258.jpg', 'text': '9e'}
-{'image_path': 'sample_259.jpg', 'text': 'L-zuccac_'}
-{'image_path': 'sample_260.jpg', 'text': 'R& 1 $_'}
-{'image_path': 'sample_261.jpg', 'text': '(& ,Lhes'}
-{'image_path': 'sample_262.jpg', 'text': '22  Zbr &'}
-{'image_path': 'sample_263.jpg', 'text': '274 eaalon'}
-{'image_path': 'sample_264.jpg', 'text': '2020/424'}
-{'image_path': 'sample_265.jpg', 'text': '71.47/'}
-{'image_path': 'sample_266.jpg', 'text': 'fas 218.-76744'}
-{'image_path': 'sample_267.jpg', 'text': 'R10('}
-{'image_path': 'sample_268.jpg', 'text': '[2o9'}
-{'image_path': 'sample_269.jpg', 'text': 'Cel'}
-{'image_path': 'sample_270.jpg', 'text': '2723'}
-{'image_path': 'sample_271.jpg', 'text': '724'}
-{'image_path': 'sample_272.jpg', 'text': 'TvtIZ FAEc Ioasez"'}
-{'image_path': 'sample_273.jpg', 'text': 'Lf'}
-{'image_path': 'sample_274.jpg', 'text': '70'}
-{'image_path': 'sample_275.jpg', 'text': '{0//'}
-{'image_path': 'sample_276.jpg', 'text': '~3tikf'}
-{'image_path': 'sample_277.jpg', 'text': 'DezzeabuacEzeca '}
-{'image_path': 'sample_278.jpg', 'text': '4y'}
-{'image_path': 'sample_279.jpg', 'text': 'Zietac <'}
-{'image_path': 'sample_280.jpg', 'text': 'Ccted'}
-{'image_path': 'sample_281.jpg', 'text': '721'}
-{'image_path': 'sample_282.jpg', 'text': 'Le /ai &4Lou6'}
-{'image_path': 'sample_283.jpg', 'text': '091743/4 77a -icdr'}
-{'image_path': 'sample_284.jpg', 'text': '0lel'}
-{'image_path': 'sample_285.jpg', 'text': '2024128'}
-{'image_path': 'sample_286.jpg', 'text': '4'}
-{'image_path': 'sample_287.jpg', 'text': 'Cxca1s'}
-{'image_path': 'sample_288.jpg', 'text': '42 _'}
-{'image_path': 'sample_289.jpg', 'text': 'K&4^'}
-{'image_path': 'sample_290.jpg', 'text': 'Z /'}
-{'image_path': 'sample_291.jpg', 'text': 'AcLvE2'}
-{'image_path': 'sample_292.jpg', 'text': 'La7'}
-{'image_path': 'sample_293.jpg', 'text': 'P2;'}
-{'image_path': 'sample_294.jpg', 'text': '7 2'}
-{'image_path': 'sample_295.jpg', 'text': '~'}
-{'image_path': 'sample_296.jpg', 'text': 'L4'}
-{'image_path': 'sample_297.jpg', 'text': 'ic8k 2Zs Lecpz'}
-{'image_path': 'sample_298.jpg', 'text': 'A84'}
-{'image_path': 'sample_299.jpg', 'text': 'us ^Kxe'}
-{'image_path': 'sample_300.jpg', 'text': '{il'}
-{'image_path': 'sample_301.jpg', 'text': 'Ldc'}
-{'image_path': 'sample_302.jpg', 'text': '4'}
-{'image_path': 'sample_303.jpg', 'text': '"44'}
-{'image_path': 'sample_304.jpg', 'text': '2a8'}
-{'image_path': 'sample_305.jpg', 'text': 'Lf€'}
-{'image_path': 'sample_306.jpg', 'text': "'2-Lc r.22 7"}
-{'image_path': 'sample_307.jpg', 'text': 'Cluoc'}
-{'image_path': 'sample_308.jpg', 'text': 'Gahoils'}
-{'image_path': 'sample_309.jpg', 'text': 'nh1-'}
-{'image_path': 'sample_310.jpg', 'text': '4'}
-{'image_path': 'sample_311.jpg', 'text': '4i6tae ~'}
-{'image_path': 'sample_312.jpg', 'text': 'eleLe A7L €'}
-{'image_path': 'sample_313.jpg', 'text': '7237,6'}
-{'image_path': 'sample_314.jpg', 'text': 'A'}
-{'image_path': 'sample_315.jpg', 'text': '2C'}
-{'image_path': 'sample_316.jpg', 'text': 'KilzrcL'}
-{'image_path': 'sample_317.jpg', 'text': 'Lv'}
-{'image_path': 'sample_318.jpg', 'text': 'CozBngs & caelcteck'}
-{'image_path': 'sample_319.jpg', 'text': 'onuJ &aEO'}
-{'image_path': 'sample_320.jpg', 'text': 'Af'}
-{'image_path': 'sample_321.jpg', 'text': 'Giedxo<€'}
-{'image_path': 'sample_322.jpg', 'text': 'li'}
-{'image_path': 'sample_323.jpg', 'text': '4 e3 fv'}
-{'image_path': 'sample_324.jpg', 'text': "'2 Eut ="}
-{'image_path': 'sample_325.jpg', 'text': '8&2'}
-{'image_path': 'sample_326.jpg', 'text': '2'}
-{'image_path': 'sample_328.jpg', 'text': '247'}
-{'image_path': 'sample_329.jpg', 'text': '& /'}
-{'image_path': 'sample_330.jpg', 'text': '72-cc'}
-{'image_path': 'sample_331.jpg', 'text': '2346'}
-{'image_path': 'sample_332.jpg', 'text': '(Eaeony'}
-{'image_path': 'sample_333.jpg', 'text': 'Ketow'}
-{'image_path': 'sample_334.jpg', 'text': '7s'}
-{'image_path': 'sample_335.jpg', 'text': 'flccecf'}
-{'image_path': 'sample_336.jpg', 'text': "'/857"}
-{'image_path': 'sample_337.jpg', 'text': 'S E'}
-{'image_path': 'sample_338.jpg', 'text': 'Dlxchr'}
-{'image_path': 'sample_339.jpg', 'text': 'bz'}
-{'image_path': 'sample_340.jpg', 'text': '2642'}
-{'image_path': 'sample_341.jpg', 'text': '0Sur'}
-{'image_path': 'sample_342.jpg', 'text': '7use'}
-{'image_path': 'sample_343.jpg', 'text': 'Ctucl'}
-{'image_path': 'sample_344.jpg', 'text': 'Mc'}
-{'image_path': 'sample_345.jpg', 'text': '2674'}
-{'image_path': 'sample_346.jpg', 'text': '27'}
-{'image_path': 'sample_347.jpg', 'text': '27'}
-{'image_path': 'sample_348.jpg', 'text': 'Fi'}
-{'image_path': 'sample_349.jpg', 'text': '222'}
-{'image_path': 'sample_350.jpg', 'text': '2c &'}
-{'image_path': 'sample_351.jpg', 'text': '25'}
-{'image_path': 'sample_352.jpg', 'text': '~telS'}
-{'image_path': 'sample_353.jpg', 'text': '282'}
-{'image_path': 'sample_354.jpg', 'text': 'Ovas'}
-{'image_path': 'sample_355.jpg', 'text': 'cicEf'}
-{'image_path': 'sample_356.jpg', 'text': 'lees'}
-{'image_path': 'sample_357.jpg', 'text': '7736178%4'}
-{'image_path': 'sample_358.jpg', 'text': '745'}
-{'image_path': 'sample_359.jpg', 'text': 'Tn'}
-{'image_path': 'sample_360.jpg', 'text': '(L'}
-{'image_path': 'sample_361.jpg', 'text': '7cferat'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_1.jpg', 'text': '1840 The'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_2.jpg', 'text': 'arlow'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_3.jpg', 'text': 'Poor'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_4.jpg', 'text': 'lectoral Divisions'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_5.jpg', 'text': 'the Fourteenth'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_6.jpg', 'text': 'consist as follows'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_7.jpg', 'text': 'the poor'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_8.jpg', 'text': 'as'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_9.jpg', 'text': 'set forth in the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_10.jpg', 'text': 'Order of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_11.jpg', 'text': 'declared'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_13.jpg', 'text': 'Law'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_14.jpg', 'text': 'om'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_15.jpg', 'text': 'missionery'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_16.jpg', 'text': "and"}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_18.jpg', 'text': 'is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_20.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_21.jpg', 'text': 'document'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_22.jpg', 'text': 'indeed'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_23.jpg', 'text': 'Baronies of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_24.jpg', 'text': 'may'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_25.jpg', 'text': 'fairly'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_26.jpg', 'text': 'be'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_27.jpg', 'text': 'pronounced'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_28.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_29.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_30.jpg', 'text': 'the most defective'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_31.jpg', 'text': 'as'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_32.jpg', 'text': 'one'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_33.jpg', 'text': 'of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_34.jpg', 'text': 'Idrone'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_35.jpg', 'text': 'West in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_36.jpg', 'text': 'of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_37.jpg', 'text': 'and irregular documents'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_38.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_39.jpg', 'text': 'oun'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_40.jpg', 'text': 'ty'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_41.jpg', 'text': 'also'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_42.jpg', 'text': 'such services'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_43.jpg', 'text': 'rights'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_44.jpg', 'text': 'ever'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_48.jpg', 'text': 'with the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_49.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_50.jpg', 'text': 'Interests were'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_51.jpg', 'text': 'also'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_54.jpg', 'text': 'whole of the Barony'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_55.jpg', 'text': 'exception'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_58.jpg', 'text': 'Department of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_59.jpg', 'text': 'Government. It is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_60.jpg', 'text': 'Parish of Barragh'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_61.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_62.jpg', 'text': 'in justification of a'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_64.jpg', 'text': 'f a'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_65.jpg', 'text': 'Part of the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_66.jpg', 'text': 'Fenna'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_67.jpg', 'text': 'llege'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_68.jpg', 'text': 'that the Parties who'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_69.jpg', 'text': 'The Parishes'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_70.jpg', 'text': 'Tullowphelim'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_71.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_72.jpg', 'text': 'the Document had'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_73.jpg', 'text': 'no'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_74.jpg', 'text': 'local know'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_75.jpg', 'text': 'Ardristan'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_76.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_77.jpg', 'text': 'the Barony'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_78.jpg', 'text': 'of Rathvilly'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_79.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_80.jpg', 'text': 'Country'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_81.jpg', 'text': 'They'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_82.jpg', 'text': 'had the maps of the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_83.jpg', 'text': 'of the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_84.jpg', 'text': 'Townslands'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_85.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_86.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_87.jpg', 'text': 'County of Kildare All'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_88.jpg', 'text': 'Survey before them which they'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_89.jpg', 'text': 'Ordinance'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_90.jpg', 'text': 'had'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_91.jpg', 'text': 'on'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_92.jpg', 'text': 'ly care'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_93.jpg', 'text': 'ther constitute the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_94.jpg', 'text': 'Carlow Poor Law Union'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_95.jpg', 'text': 'lly to follow'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_96.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_97.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_98.jpg', 'text': 'toge'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_99.jpg', 'text': 'slightest mistake'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_100.jpg', 'text': 'cou'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_101.jpg', 'text': 'tain according to the Ordinan'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_102.jpg', 'text': 'ce'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_103.jpg', 'text': 'Survey'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_104.jpg', 'text': 'could'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_105.jpg', 'text': 'have'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_106.jpg', 'text': 'Statute'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_107.jpg', 'text': 'occurred'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_108.jpg', 'text': 'but instead of doing'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_109.jpg', 'text': '188,304'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_110.jpg', 'text': '1-14-'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_111.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_112.jpg', 'text': "the Valuator"}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_117.jpg', 'text': 'which'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_118.jpg', 'text': 'obsolete names'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_119.jpg', 'text': 'introduced'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_120.jpg', 'text': 'acres'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_121.jpg', 'text': 'are'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_122.jpg', 'text': 'so'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_123.jpg', 'text': 'hich'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_125.jpg', 'text': 'Board'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_126.jpg', 'text': 'for'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_127.jpg', 'text': 'valuing 188,304'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_129.jpg', 'text': 'found'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_130.jpg', 'text': 'a'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_131.jpg', 'text': 'all'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_132.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_133.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_134.jpg', 'text': 'Ordinance'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_135.jpg', 'text': 'but 10 Perches'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_136.jpg', 'text': 'but'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_137.jpg', 'text': 'now'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_139.jpg', 'text': 'Map'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_140.jpg', 'text': 'or '}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_141.jpg', 'text': 'Survey'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_142.jpg', 'text': 'for'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_143.jpg', 'text': 'instance'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_144.jpg', 'text': 'after enume-'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_145.jpg', 'text': 'that contents without including the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_147.jpg', 'text': 'Several Parishes'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_148.jpg', 'text': 'the Baronies'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_149.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_150.jpg', 'text': 'of Forth'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_151.jpg', 'text': 'of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_152.jpg', 'text': 'Knockmore the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_153.jpg', 'text': 'Commi'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_154.jpg', 'text': 'ttee are'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_155.jpg', 'text': 'wholy'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_156.jpg', 'text': 'at a'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_159.jpg', 'text': 'ntained'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_160.jpg', 'text': 'in the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_161.jpg', 'text': 'Union'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_163.jpg', 'text': 'proceeds'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_166.jpg', 'text': 'to conceive'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_167.jpg', 'text': 'ar'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_168.jpg', 'text': 'Poor Law'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_170.jpg', 'text': 'Kellistown'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_171.jpg', 'text': 'Ctzaol'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_172.jpg', 'text': '~et4le+1odeo 124.2'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_173.jpg', 'text': '72277*1 O1lakos A(luf-edclklics'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_174.jpg', 'text': '(o4'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_175.jpg', 'text': 'C7'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_176.jpg', 'text': 'Liiciusees IE4EG Mlaaecec'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_177.jpg', 'text': 'L/ &,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_178.jpg', 'text': 'LLeceu,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_179.jpg', 'text': 'Za / h'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_180.jpg', 'text': 'Zi 7~'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_181.jpg', 'text': '2o2o'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_182.jpg', 'text': '~ciledi8 kculd T'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_183.jpg', 'text': 'Zc ~f1 [24.22'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_184.jpg', 'text': '2'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_185.jpg', 'text': '/e42'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_186.jpg', 'text': '74'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_187.jpg', 'text': '7enuc'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_188.jpg', 'text': 'CLLacc'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_189.jpg', 'text': 'Yacc74 UBarmaAxA&ox'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_190.jpg', 'text': 'DL{*&'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_191.jpg', 'text': 'Ceha%ece'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_192.jpg', 'text': 'Lf'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_193.jpg', 'text': 'L) &6126'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_194.jpg', 'text': '2.2 7642a8 Ozeeh Jek,TenzuaEeu ,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_195.jpg', 'text': 'filec'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_196.jpg', 'text': 'Iua22'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_197.jpg', 'text': '7'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_198.jpg', 'text': '02-[820'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_199.jpg', 'text': 'Liecce'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_200.jpg', 'text': 'E2J'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_201.jpg', 'text': '4-4ozL'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_202.jpg', 'text': '& &uec'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_203.jpg', 'text': 'shJazlerese7i71i'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_204.jpg', 'text': '224@'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_205.jpg', 'text': '040( <kunFZEc'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_206.jpg', 'text': '7a/ - & $'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_207.jpg', 'text': '252 764'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_208.jpg', 'text': 'USam'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_209.jpg', 'text': '(24rues,9487'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_210.jpg', 'text': '6l164,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_211.jpg', 'text': '%t811'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_212.jpg', 'text': 'LLLoLncolca â‚¬,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_213.jpg', 'text': '7oelef /Z'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_214.jpg', 'text': '2 U8e_ (A`Meic &,49122,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_215.jpg', 'text': '614/ &4'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_216.jpg', 'text': 'Dlecccseec'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_217.jpg', 'text': '22'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_218.jpg', 'text': 'LL'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_219.jpg', 'text': '7'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_220.jpg', 'text': '&eEcz'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_221.jpg', 'text': '(w & &s72'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_222.jpg', 'text': ',E/TE &cdtoreeec '}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_223.jpg', 'text': 'Inctu no'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_224.jpg', 'text': '2ae/ 2/ <'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_225.jpg', 'text': '7'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_226.jpg', 'text': 'Oc{'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_227.jpg', 'text': 'Q'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_228.jpg', 'text': 'Aae % 1,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_229.jpg', 'text': '~aL'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_230.jpg', 'text': 'C2'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_231.jpg', 'text': 'Z'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_232.jpg', 'text': '2646 Reuls(ircs& (erzasf'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_233.jpg', 'text': '22c6c<'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_234.jpg', 'text': '(( &-'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_235.jpg', 'text': '27 B6 } i1n.t'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_236.jpg', 'text': '~) (a@y'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_237.jpg', 'text': 'Z'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_238.jpg', 'text': '0/&'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_239.jpg', 'text': '21872'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_240.jpg', 'text': 'Act 2 jer-'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_241.jpg', 'text': '4 $'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_242.jpg', 'text': '7v/ Zs tac/A Eeene'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_243.jpg', 'text': 'c a721'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_244.jpg', 'text': 'Lf'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_245.jpg', 'text': '7c'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_246.jpg', 'text': '~eT'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_247.jpg', 'text': '116. 4fi2ani'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_248.jpg', 'text': '412 [,'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_249.jpg', 'text': 'Ezaace'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_250.jpg', 'text': '20aleazz'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_251.jpg', 'text': 'LC1'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_252.jpg', 'text': "781 C utiuc'"}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_253.jpg', 'text': '"2'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_254.jpg', 'text': "'22"}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_255.jpg', 'text': '8044n/'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_256.jpg', 'text': 'OlL'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_257.jpg', 'text': '2 QucL22'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_258.jpg', 'text': '"lcALclu.'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_259.jpg', 'text': '9e'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_260.jpg', 'text': 'L-zuccZc_'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_261.jpg', 'text': 'R& & $_'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_262.jpg', 'text': '(& ,Lhes'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_263.jpg', 'text': '22  Zbr &'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_264.jpg', 'text': '274 eaalon'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_265.jpg', 'text': '2020/424'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_266.jpg', 'text': '71.47/'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_267.jpg', 'text': 'fas 2182-76744'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_268.jpg', 'text': 'RL0('}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_269.jpg', 'text': '[2o9'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_270.jpg', 'text': 'Cel'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_271.jpg', 'text': '2723'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_272.jpg', 'text': '724'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_273.jpg', 'text': 'TvtIZ FAEc Ioaeez"'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_274.jpg', 'text': 'Lf'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_275.jpg', 'text': 'Zo'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_276.jpg', 'text': '{0//'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_277.jpg', 'text': '~3tiri'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_278.jpg', 'text': 'DezzeabuacEzeca'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_279.jpg', 'text': '4y'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_280.jpg', 'text': 'Zietac <'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_281.jpg', 'text': 'Ccted'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_282.jpg', 'text': '7o6'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_283.jpg', 'text': 'Le /ai &4Lou6'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_284.jpg', 'text': '091743/4 77a -icdir'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_285.jpg', 'text': '0lel'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_286.jpg', 'text': '2024128'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_287.jpg', 'text': '4'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_288.jpg', 'text': 'C Mcazas'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_289.jpg', 'text': '42 _'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_290.jpg', 'text': 'K&4^'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_291.jpg', 'text': 'Z /'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_292.jpg', 'text': 'AcLvE2'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_293.jpg', 'text': 'La7'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_294.jpg', 'text': 'P2;'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_295.jpg', 'text': '7 E'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_296.jpg', 'text': '~'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_297.jpg', 'text': 'L4'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_298.jpg', 'text': 'ic8k 2Zs Lecpz'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_299.jpg', 'text': 'A84'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_300.jpg', 'text': 'uy ^ Kxe'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_301.jpg', 'text': 'cil'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_302.jpg', 'text': 'Edc&'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_303.jpg', 'text': '4'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_304.jpg', 'text': '"44L'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_305.jpg', 'text': '2241n'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_306.jpg', 'text': 'Lfâ‚¬'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_307.jpg', 'text': "'2-Lc r.22 7"}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_308.jpg', 'text': 'Cluoc'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_309.jpg', 'text': 'GJahotls'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_310.jpg', 'text': 'Snm~'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_311.jpg', 'text': '4'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_312.jpg', 'text': '4i6tae ~'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_313.jpg', 'text': ' lLe AZL â‚¬'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_314.jpg', 'text': '7237,6'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_315.jpg', 'text': 'A'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_316.jpg', 'text': '2C'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_317.jpg', 'text': 'KilzrcL'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_318.jpg', 'text': 'Lu'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_319.jpg', 'text': 'CozBngs &/ caelcteck'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_320.jpg', 'text': 'oLJ &ak0'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_321.jpg', 'text': 'Af'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_322.jpg', 'text': 'Giedxo<â‚¬'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_323.jpg', 'text': 'li'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_324.jpg', 'text': '4 e3 fv'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_325.jpg', 'text': "'{Eu ="}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_326.jpg', 'text': '8 &2'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_327.jpg', 'text': '2'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_329.jpg', 'text': '247'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_330.jpg', 'text': '& /'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_331.jpg', 'text': '742-c26'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_332.jpg', 'text': '2346'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_333.jpg', 'text': '(Eaetony'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_334.jpg', 'text': 'Ketow'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_335.jpg', 'text': '7s'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_336.jpg', 'text': 'fccecf'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_337.jpg', 'text': "'/857"}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_338.jpg', 'text': 'S E'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_339.jpg', 'text': 'Dlxchr'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_340.jpg', 'text': 'bz'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_341.jpg', 'text': '2542'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_342.jpg', 'text': '0Sur'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_343.jpg', 'text': '7use'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_344.jpg', 'text': 'Ctucl'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_345.jpg', 'text': 'Mc'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_346.jpg', 'text': '2674'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_347.jpg', 'text': '27'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_348.jpg', 'text': '27'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_349.jpg', 'text': 'Fi'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_350.jpg', 'text': '222'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_351.jpg', 'text': '2 (_'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_352.jpg', 'text': '2 L'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_353.jpg', 'text': '25'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_354.jpg', 'text': '~telS'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_355.jpg', 'text': '282'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_356.jpg', 'text': 'Ovas'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_357.jpg', 'text': 'cicEf'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_358.jpg', 'text': 'Zees'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_359.jpg', 'text': '7736178%4'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_360.jpg', 'text': '744'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_361.jpg', 'text': 'Tn'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_362.jpg', 'text': 'Ou:'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_363.jpg', 'text': '7cferat'}
