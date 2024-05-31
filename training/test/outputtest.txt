@@ -1,0 +1,12 @@
+{'image_path': 'sample_0.jpg', 'text': '0/.S udlow ,1 ieEixu .@z &/ / kascuc 7 07ecr '}
+{'image_path': 'sample_1.jpg', 'text': 'Z+'}
+{'image_path': 'sample_2.jpg', 'text': '[2'}
+{'image_path': 'sample_3.jpg', 'text': "'cknel"}
+{'image_path': 'sample_4.jpg', 'text': 'LLL'}
+{'image_path': 'sample_5.jpg', 'text': '7foz] / 703.*876, 9u7n4c e'}
+{'image_path': 'sample_6.jpg', 'text': '~Yaaced Zec'}
+{'image_path': 'sample_7.jpg', 'text': '"741 _'}
+{'image_path': 'sample_8.jpg', 'text': '3'}
+{'image_path': 'sample_9.jpg', 'text': 'ZLileaLU'}
+{'image_path': 'sample_10.jpg', 'text': '(fiau /'}
+{'image_path': 'sample_11.jpg', 'text': 'Jca €1'}
