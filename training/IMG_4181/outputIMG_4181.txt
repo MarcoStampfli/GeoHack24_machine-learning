@@ -143,159 +143,159 @@
 {'image_path': 'training/IMG_4181/sampleIMG_4181_167.jpg', 'text': 'ar'}
 {'image_path': 'training/IMG_4181/sampleIMG_4181_168.jpg', 'text': 'Poor Law'}
 {'image_path': 'training/IMG_4181/sampleIMG_4181_170.jpg', 'text': 'Kellistown'}
-{'image_path': 'sample_171.jpg', 'text': 'and'}
-{'image_path': 'sample_172.jpg', 'text': 'Subdivided into'}
-{'image_path': 'sample_173.jpg', 'text': 'Electoral Divisions and (but exclusiv'}
-{'image_path': 'sample_176.jpg', 'text': 'including Pubbledrum'}
-{'image_path': 'sample_177.jpg', 'text': 'it is'}
-{'image_path': 'sample_178.jpg', 'text': 'plain'}
-{'image_path': 'sample_179.jpg', 'text': 'that no'}
-{'image_path': 'sample_180.jpg', 'text': 'matther'}
-{'image_path': 'sample_181.jpg', 'text': 'how'}
-{'image_path': 'sample_182.jpg', 'text': 'that Subdivision North'}
-{'image_path': 'sample_183.jpg', 'text': 'the Towns lands'}
-{'image_path': 'sample_184.jpg', 'text': 'o'}
-{'image_path': 'sample_185.jpg', 'text': 'of Kilbrannish'}
-{'image_path': 'sample_187.jpg', 'text': 'tioned'}
-{'image_path': 'sample_188.jpg', 'text': 'and'}
-{'image_path': 'sample_189.jpg', 'text': 'South Barnahask, old'}
-{'image_path': 'sample_190.jpg', 'text': 'and'}
-{'image_path': 'sample_191.jpg', 'text': 'New Deer'}
-{'image_path': 'sample_192.jpg', 'text': 'is'}
-{'image_path': 'sample_193.jpg', 'text': 'the Sum of ale the'}
-{'image_path': 'sample_194.jpg', 'text': 'Electoral Divisions Park, Clonmullen'}
-{'image_path': 'sample_195.jpg', 'text': 'should'}
-{'image_path': 'sample_196.jpg', 'text': 'make'}
-{'image_path': 'sample_197.jpg', 'text': 'the'}
-{'image_path': 'sample_198.jpg', 'text': 'arlow'}
-{'image_path': 'sample_199.jpg', 'text': 'Union'}
-{'image_path': 'sample_200.jpg', 'text': 'as'}
-{'image_path': 'sample_201.jpg', 'text': 'above'}
-{'image_path': 'sample_202.jpg', 'text': 'de and'}
-{'image_path': 'sample_204.jpg', 'text': 'clared'}
-{'image_path': 'sample_205.jpg', 'text': 'and further that as'}
-{'image_path': 'sample_208.jpg', 'text': 'Barony of Forth'}
-{'image_path': 'sample_209.jpg', 'text': 'Now any'}
-{'image_path': 'sample_210.jpg', 'text': 'of Idrone'}
-{'image_path': 'sample_211.jpg', 'text': 'individual'}
-{'image_path': 'sample_212.jpg', 'text': 'reading the'}
-{'image_path': 'sample_213.jpg', 'text': 'above would at once'}
-{'image_path': 'sample_214.jpg', 'text': 'East is'}
-{'image_path': 'sample_215.jpg', 'text': 'declared'}
-{'image_path': 'sample_216.jpg', 'text': 'be'}
-{'image_path': 'sample_217.jpg', 'text': 'in'}
-{'image_path': 'sample_218.jpg', 'text': 'the'}
-{'image_path': 'sample_219.jpg', 'text': 'arlow'}
-{'image_path': 'sample_220.jpg', 'text': 'suppose'}
-{'image_path': 'sample_221.jpg', 'text': 'the "Pubbledrum"'}
-{'image_path': 'sample_222.jpg', 'text': 'Union no'}
-{'image_path': 'sample_223.jpg', 'text': 'part of'}
-{'image_path': 'sample_224.jpg', 'text': 'it'}
-{'image_path': 'sample_225.jpg', 'text': 'was'}
-{'image_path': 'sample_226.jpg', 'text': 'a'}
-{'image_path': 'sample_227.jpg', 'text': 'part of the'}
-{'image_path': 'sample_228.jpg', 'text': 'from'}
-{'image_path': 'sample_229.jpg', 'text': 'can'}
-{'image_path': 'sample_230.jpg', 'text': 'be'}
-{'image_path': 'sample_231.jpg', 'text': 'legally exempted Parish of Barragh'}
-{'image_path': 'sample_232.jpg', 'text': 'included'}
-{'image_path': 'sample_234.jpg', 'text': 'it But such'}
-{'image_path': 'sample_235.jpg', 'text': 'the Rates'}
-{'image_path': 'sample_236.jpg', 'text': 'The'}
-{'image_path': 'sample_237.jpg', 'text': 'om'}
-{'image_path': 'sample_238.jpg', 'text': 'mitted'}
-{'image_path': 'sample_239.jpg', 'text': 'however'}
-{'image_path': 'sample_240.jpg', 'text': 'is'}
-{'image_path': 'sample_241.jpg', 'text': 'not the fact. Here'}
-{'image_path': 'sample_242.jpg', 'text': 'not attach'}
-{'image_path': 'sample_243.jpg', 'text': 'is'}
-{'image_path': 'sample_244.jpg', 'text': 'no'}
-{'image_path': 'sample_245.jpg', 'text': 'such'}
-{'image_path': 'sample_246.jpg', 'text': 'place as "Pubble'}
-{'image_path': 'sample_247.jpg', 'text': 'any'}
-{'image_path': 'sample_248.jpg', 'text': 'blame'}
-{'image_path': 'sample_249.jpg', 'text': 'the Valuator'}
-{'image_path': 'sample_251.jpg', 'text': 'this drum'}
-{'image_path': 'sample_252.jpg', 'text': '"to'}
-{'image_path': 'sample_254.jpg', 'text': 'found'}
-{'image_path': 'sample_255.jpg', 'text': 'on'}
-{'image_path': 'sample_256.jpg', 'text': 'the Ordinance'}
-{'image_path': 'sample_257.jpg', 'text': 'mission'}
-{'image_path': 'sample_258.jpg', 'text': 'He'}
-{'image_path': 'sample_259.jpg', 'text': 'furiusted'}
-{'image_path': 'sample_260.jpg', 'text': 'Maps'}
-{'image_path': 'sample_261.jpg', 'text': 'Parishes'}
-{'image_path': 'sample_262.jpg', 'text': 'of with a'}
-{'image_path': 'sample_263.jpg', 'text': 'list of the Valuator'}
-{'image_path': 'sample_264.jpg', 'text': 'however'}
-{'image_path': 'sample_265.jpg', 'text': 'states that he'}
-{'image_path': 'sample_266.jpg', 'text': 'has asertained'}
-{'image_path': 'sample_267.jpg', 'text': 'and'}
-{'image_path': 'sample_268.jpg', 'text': 'laney'}
-{'image_path': 'sample_269.jpg', 'text': 'con'}
-{'image_path': 'sample_270.jpg', 'text': 'stitu'}
-{'image_path': 'sample_271.jpg', 'text': 'eac'}
-{'image_path': 'sample_272.jpg', 'text': 'that "Pubbledrum"'}
-{'image_path': 'sample_273.jpg', 'text': 'is'}
-{'image_path': 'sample_274.jpg', 'text': 'no'}
-{'image_path': 'sample_275.jpg', 'text': 'part'}
-{'image_path': 'sample_276.jpg', 'text': 'of the Parish'}
-{'image_path': 'sample_277.jpg', 'text': 'Electoral Divisions'}
-{'image_path': 'sample_279.jpg', 'text': 'that List'}
-{'image_path': 'sample_280.jpg', 'text': 'and'}
-{'image_path': 'sample_281.jpg', 'text': 'states'}
-{'image_path': 'sample_282.jpg', 'text': 'he was guided'}
-{'image_path': 'sample_283.jpg', 'text': 'Barragh but a seperate Parish'}
-{'image_path': 'sample_284.jpg', 'text': 'and'}
-{'image_path': 'sample_285.jpg', 'text': 'entered'}
-{'image_path': 'sample_286.jpg', 'text': 'of'}
-{'image_path': 'sample_287.jpg', 'text': 'greatest'}
-{'image_path': 'sample_288.jpg', 'text': 'as'}
-{'image_path': 'sample_289.jpg', 'text': 'far'}
-{'image_path': 'sample_290.jpg', 'text': 'as'}
-{'image_path': 'sample_291.jpg', 'text': 'possible'}
-{'image_path': 'sample_292.jpg', 'text': 'But the'}
-{'image_path': 'sample_293.jpg', 'text': 'on'}
-{'image_path': 'sample_295.jpg', 'text': 'the'}
-{'image_path': 'sample_297.jpg', 'text': 'possible irrep'}
-{'image_path': 'sample_298.jpg', 'text': 'and'}
-{'image_path': 'sample_300.jpg', 'text': 'in'}
-{'image_path': 'sample_302.jpg', 'text': 'of'}
-{'image_path': 'sample_304.jpg', 'text': 'ardoyne'}
-{'image_path': 'sample_306.jpg', 'text': 'ularities'}
-{'image_path': 'sample_307.jpg', 'text': 'and'}
-{'image_path': 'sample_308.jpg', 'text': 'omissions'}
-{'image_path': 'sample_309.jpg', 'text': 'ommu'}
-{'image_path': 'sample_311.jpg', 'text': 'further'}
-{'image_path': 'sample_312.jpg', 'text': 'observe'}
-{'image_path': 'sample_313.jpg', 'text': 'that there'}
-{'image_path': 'sample_316.jpg', 'text': 'found'}
-{'image_path': 'sample_317.jpg', 'text': 'in'}
-{'image_path': 'sample_318.jpg', 'text': 'contains of each such'}
-{'image_path': 'sample_319.jpg', 'text': 'owns Land'}
-{'image_path': 'sample_320.jpg', 'text': 'as'}
-{'image_path': 'sample_321.jpg', 'text': 'Paddock'}
-{'image_path': 'sample_322.jpg', 'text': 'in'}
-{'image_path': 'sample_323.jpg', 'text': 'Parish'}
-{'image_path': 'sample_326.jpg', 'text': 'of'}
-{'image_path': 'sample_328.jpg', 'text': 'ast'}
-{'image_path': 'sample_331.jpg', 'text': 'Entire'}
-{'image_path': 'sample_332.jpg', 'text': 'Barony'}
-{'image_path': 'sample_334.jpg', 'text': 'the'}
-{'image_path': 'sample_336.jpg', 'text': "of Forth"}
-{'image_path': 'sample_338.jpg', 'text': 'drew'}
-{'image_path': 'sample_340.jpg', 'text': 'edge'}
-{'image_path': 'sample_341.jpg', 'text': 'of Four'}
-{'image_path': 'sample_342.jpg', 'text': 'these'}
-{'image_path': 'sample_343.jpg', 'text': 'and'}
-{'image_path': 'sample_345.jpg', 'text': 'not'}
-{'image_path': 'sample_346.jpg', 'text': 'not'}
-{'image_path': 'sample_347.jpg', 'text': 'of'}
-{'image_path': 'sample_348.jpg', 'text': 'ting'}
-{'image_path': 'sample_351.jpg', 'text': 'of the'}
-{'image_path': 'sample_352.jpg', 'text': 'being'}
-{'image_path': 'sample_353.jpg', 'text': 'do'}
-{'image_path': 'sample_354.jpg', 'text': 'was'}
-{'image_path': 'sample_356.jpg', 'text': 'ting'}
-{'image_path': 'sample_359.jpg', 'text': 'him'}
-{'image_path': 'sample_361.jpg', 'text': 'Seperat'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_171.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_172.jpg', 'text': 'Subdivided into'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_173.jpg', 'text': 'Electoral Divisions and (but exclusiv'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_176.jpg', 'text': 'including Pubbledrum'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_177.jpg', 'text': 'it is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_178.jpg', 'text': 'plain'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_179.jpg', 'text': 'that no'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_180.jpg', 'text': 'matther'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_181.jpg', 'text': 'how'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_182.jpg', 'text': 'that Subdivision North'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_183.jpg', 'text': 'the Towns lands'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_184.jpg', 'text': 'o'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_185.jpg', 'text': 'of Kilbrannish'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_187.jpg', 'text': 'tioned'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_188.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_189.jpg', 'text': 'South Barnahask, old'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_190.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_191.jpg', 'text': 'New Deer'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_192.jpg', 'text': 'is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_193.jpg', 'text': 'the Sum of ale the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_194.jpg', 'text': 'Electoral Divisions Park, Clonmullen'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_195.jpg', 'text': 'should'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_196.jpg', 'text': 'make'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_197.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_198.jpg', 'text': 'arlow'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_199.jpg', 'text': 'Union'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_200.jpg', 'text': 'as'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_201.jpg', 'text': 'above'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_202.jpg', 'text': 'de and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_204.jpg', 'text': 'clared'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_205.jpg', 'text': 'and further that as'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_208.jpg', 'text': 'Barony of Forth'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_209.jpg', 'text': 'Now any'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_210.jpg', 'text': 'of Idrone'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_211.jpg', 'text': 'individual'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_212.jpg', 'text': 'reading the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_213.jpg', 'text': 'above would at once'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_214.jpg', 'text': 'East is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_215.jpg', 'text': 'declared'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_216.jpg', 'text': 'be'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_217.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_218.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_219.jpg', 'text': 'arlow'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_220.jpg', 'text': 'suppose'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_221.jpg', 'text': 'the "Pubbledrum"'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_222.jpg', 'text': 'Union no'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_223.jpg', 'text': 'part of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_224.jpg', 'text': 'it'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_225.jpg', 'text': 'was'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_226.jpg', 'text': 'a'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_227.jpg', 'text': 'part of the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_228.jpg', 'text': 'from'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_229.jpg', 'text': 'can'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_230.jpg', 'text': 'be'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_231.jpg', 'text': 'legally exempted Parish of Barragh'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_232.jpg', 'text': 'included'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_234.jpg', 'text': 'it But such'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_235.jpg', 'text': 'the Rates'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_236.jpg', 'text': 'The'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_237.jpg', 'text': 'om'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_238.jpg', 'text': 'mitted'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_239.jpg', 'text': 'however'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_240.jpg', 'text': 'is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_241.jpg', 'text': 'not the fact. Here'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_242.jpg', 'text': 'not attach'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_243.jpg', 'text': 'is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_244.jpg', 'text': 'no'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_245.jpg', 'text': 'such'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_246.jpg', 'text': 'place as "Pubble'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_247.jpg', 'text': 'any'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_248.jpg', 'text': 'blame'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_249.jpg', 'text': 'the Valuator'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_251.jpg', 'text': 'this drum'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_252.jpg', 'text': '"to'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_254.jpg', 'text': 'found'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_255.jpg', 'text': 'on'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_256.jpg', 'text': 'the Ordinance'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_257.jpg', 'text': 'mission'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_258.jpg', 'text': 'He'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_259.jpg', 'text': 'furiusted'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_260.jpg', 'text': 'Maps'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_261.jpg', 'text': 'Parishes'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_262.jpg', 'text': 'of with a'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_263.jpg', 'text': 'list of the Valuator'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_264.jpg', 'text': 'however'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_265.jpg', 'text': 'states that he'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_266.jpg', 'text': 'has asertained'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_267.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_268.jpg', 'text': 'laney'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_269.jpg', 'text': 'con'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_270.jpg', 'text': 'stitu'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_271.jpg', 'text': 'eac'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_272.jpg', 'text': 'that "Pubbledrum"'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_273.jpg', 'text': 'is'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_274.jpg', 'text': 'no'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_275.jpg', 'text': 'part'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_276.jpg', 'text': 'of the Parish'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_277.jpg', 'text': 'Electoral Divisions'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_279.jpg', 'text': 'that List'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_280.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_281.jpg', 'text': 'states'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_282.jpg', 'text': 'he was guided'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_283.jpg', 'text': 'Barragh but a seperate Parish'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_284.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_285.jpg', 'text': 'entered'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_286.jpg', 'text': 'of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_287.jpg', 'text': 'greatest'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_288.jpg', 'text': 'as'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_289.jpg', 'text': 'far'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_290.jpg', 'text': 'as'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_291.jpg', 'text': 'possible'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_292.jpg', 'text': 'But the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_293.jpg', 'text': 'on'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_295.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_297.jpg', 'text': 'possible irrep'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_298.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_300.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_302.jpg', 'text': 'of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_304.jpg', 'text': 'ardoyne'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_306.jpg', 'text': 'ularities'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_307.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_308.jpg', 'text': 'omissions'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_309.jpg', 'text': 'ommu'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_311.jpg', 'text': 'further'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_312.jpg', 'text': 'observe'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_313.jpg', 'text': 'that there'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_316.jpg', 'text': 'found'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_317.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_318.jpg', 'text': 'contains of each such'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_319.jpg', 'text': 'owns Land'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_320.jpg', 'text': 'as'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_321.jpg', 'text': 'Paddock'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_322.jpg', 'text': 'in'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_323.jpg', 'text': 'Parish'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_326.jpg', 'text': 'of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_328.jpg', 'text': 'ast'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_331.jpg', 'text': 'Entire'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_332.jpg', 'text': 'Barony'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_334.jpg', 'text': 'the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_336.jpg', 'text': "of Forth"}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_338.jpg', 'text': 'drew'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_340.jpg', 'text': 'edge'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_341.jpg', 'text': 'of Four'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_342.jpg', 'text': 'these'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_343.jpg', 'text': 'and'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_345.jpg', 'text': 'not'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_346.jpg', 'text': 'not'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_347.jpg', 'text': 'of'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_348.jpg', 'text': 'ting'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_351.jpg', 'text': 'of the'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_352.jpg', 'text': 'being'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_353.jpg', 'text': 'do'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_354.jpg', 'text': 'was'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_356.jpg', 'text': 'ting'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_359.jpg', 'text': 'him'}
+{'image_path': 'training/IMG_4181/sampleIMG_4181_361.jpg', 'text': 'Seperat'}
