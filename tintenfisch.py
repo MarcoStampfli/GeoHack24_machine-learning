@@ -6,8 +6,9 @@ import os
 
 # Initialize the EasyOCR reader
 reader = easyocr.Reader(['en'])
-picture= "test"
-ending= ".png"
+picture= "IMG_4180"
+ending= ".jpg"
+
 # Load the image
 image_path = f'pages/{picture}{ending}'
 image = cv2.imread(image_path)
@@ -48,10 +49,10 @@ for i, (bbox, text, prob) in enumerate(results):
         samples.append(sample)
         cv2.imwrite(f"training/{picture}/sample{picture}_{i}.jpg", sample)
         outputdata.append({"image_path": f"training/{picture}/sample_{i}.jpg", "text": f"{text}"})
-    
+
     except:
         pass# Weitere Daten...
-   
+
 
 
 # Speichere die Bilder mit den Bounding Boxen und erkannten Texten
